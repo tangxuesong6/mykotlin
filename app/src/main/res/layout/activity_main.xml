@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:gravity="center"
+        android:text="click me"
+        android:id="@+id/tv_main_1"
+        android:layout_marginTop="5dp"
+        android:background="#8c997e"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+         />
+    <TextView
+        android:gravity="center"
+        android:text="click me"
+        android:id="@+id/tv_main_2"
+        android:layout_marginTop="5dp"
+        android:background="#8c997e"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        />
+    <TextView
+        android:gravity="center"
+        android:text="click me"
+        android:id="@+id/tv_main_3"
+        android:layout_marginTop="5dp"
+        android:background="#8c997e"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        />
+    <TextView
+        android:gravity="center"
+        android:text="click me"
+        android:id="@+id/tv_main_4"
+        android:layout_marginTop="5dp"
+        android:background="#8c997e"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        />
+    <TextView
+        android:gravity="center"
+        android:text="click me"
+        android:id="@+id/tv_main_5"
+        android:layout_marginTop="5dp"
+        android:background="#8c997e"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        />
+    <TextView
+        android:gravity="center"
+        android:text="click me"
+        android:id="@+id/tv_main_6"
+        android:layout_marginTop="5dp"
+        android:background="#8c997e"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        />
+    <TextView
+        android:gravity="center"
+        android:text="click me"
+        android:id="@+id/tv_main_7"
+        android:layout_marginTop="5dp"
+        android:background="#8c997e"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        />
+    <TextView
+        android:gravity="center"
+        android:text="click me"
+        android:id="@+id/tv_main_8"
+        android:layout_marginTop="5dp"
+        android:background="#8c997e"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        />
+    <TextView
+        android:gravity="center"
+        android:text="click me"
+        android:id="@+id/tv_main_9"
+        android:layout_marginTop="5dp"
+        android:background="#8c997e"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        />
+
+</LinearLayout>
